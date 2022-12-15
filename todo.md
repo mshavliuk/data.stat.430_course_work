@@ -1,7 +1,6 @@
 - [x] List all studied methods
 - [x] Chose the data set on Kaggle
-- [ ] Decide what environment to use
-- [ ] Describe the data set
-- [ ] Decide what models to apply
+- [x] Decide what environment to use
+- [x] Describe the data set
 - [x] Apply the models
 - [ ] Compare the results (CV, LOO CV)
